@@ -1,13 +1,13 @@
-# TrainingLog
-DJO Training Log Privacy Policy
-Effective October 24, 2026
+# DJO Training Log Privacy Policy
+Effective October 31, 2026
 
-## Who we are
+##Who we are
 DJO Training Log is a training log for members of the DJO team. Athletes log workouts with photos, and coaches verify them and track attendance and team points. This policy explains what the app collects, who can see it, and how to delete it.
 
-## What we collect
+##What we collect
 - Account details: your full name, email address and password (stored only in hashed form by our sign-in provider). The team code you enter at sign-up, used to confirm you’re on the team.
-- Team details: whether you are an athlete or a coach, and which team (Blue or White) you are on.
+- Team details: whether you are an athlete or a coach, which team (Blue or White) you are on, and your squad (for example Varsity Girls).
+- Training details you choose to add under My Information: your body weight and maximum heart rate. Both are optional.
 - Workouts you log: type, distance, time, date, interval splits, any description you write, and the points they earn.
 - Workout photos you choose to attach, the date each photo was taken (read from the photo), and when you logged the workout.
 - Activity: emoji reactions you leave, and reports you submit about workouts.
@@ -26,6 +26,7 @@ The app does not use your location, contacts or microphone.
 ## How your information is used
 - To run the team activity log, leaderboard and team points.
 - So coaches can verify workouts and record attendance.
+- Your weight, if you add it, to show weight-adjusted results on your workouts. Your maximum heart rate, if you add it, to show heart-rate ranges on the Pace Chart.
 - To review reported workouts and keep the app free of inappropriate content.
 - To sign you in, reset your password and keep your account secure.
 
@@ -34,12 +35,13 @@ The app does not use your location, contacts or microphone.
 - Workouts you hide from the activity log, and workouts waiting on a report review, are visible only to you and coaches.
 - Coaches can see all workouts, attendance records and reports, including who submitted a report. Other athletes cannot see who reported a workout.
 - Your email address is visible only to you and the app administrator.
+- Your weight and maximum heart rate are visible only to you. Coaches see weight-adjusted results calculated from your weight, but never the weight itself.
 
 ## Service providers
 Your data is stored with Supabase, which provides the app’s database, sign-in and photo storage. Supabase processes it on our behalf and may not use it for its own purposes. Data is encrypted in transit, and photos are kept in private storage that only signed-in team members can open, through links that expire.
 
 ## Keeping and deleting your data
-We keep your information while your account exists. You can delete your account at any time in the app under Account → Delete account. This permanently deletes your account, your workouts and their photos, your reactions and your attendance records. Reports you submitted stay with coaches but no longer show your name. Copies may remain in routine backups for a short time before they are overwritten.
+We keep your information while your account exists. You can delete your account at any time in the app under Account → Delete account. This permanently deletes your account, your workouts and their photos, your reactions, your attendance records, and your weight and maximum heart rate. Reports you submitted stay with coaches but no longer show your name. Copies may remain in routine backups for a short time before they are overwritten.
 
 Coaches can also delete an athlete’s account, for example when they leave the team.
 
