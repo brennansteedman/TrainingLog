@@ -53,4 +53,4 @@ You can view and edit your workouts in the app, keep a workout off the activity 
 If we change this policy we will update the effective date below and, for significant changes, let you know in the app.
 
 ## Contact
-bsteedman@tbcracing.org
+brennansteed52@gmail.com
